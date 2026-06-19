@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://projechnoll.github.io/cn-zhcn-zhcw-com-2/sitemap.xml
